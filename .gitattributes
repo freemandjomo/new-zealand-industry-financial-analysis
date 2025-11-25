@@ -1,0 +1,12 @@
+﻿# SQL Language Detection
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
+# Data files should not count
+*.csv linguist-documentation
+*.txt linguist-documentation
+*.jpg linguist-documentation
+*.png linguist-documentation
+
+# Markdown is documentation
+*.md linguist-documentation
