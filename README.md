@@ -1,5 +1,7 @@
 # 📊 New Zealand Annual Enterprise Survey 2024 - SQL Analysis
 
+![Aucklanbild](https://github.com/freemandjomo/new-zealand-industry-financial-analysis/blob/main/skyline-auckland-px.jpg)
+
 Advanced SQL queries analyzing financial performance across New Zealand industries.
 
 ## 📋 Project Overview
