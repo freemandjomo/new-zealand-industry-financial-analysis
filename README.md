@@ -298,7 +298,7 @@ project-sql-annual-survey/
 - Manufacturing
 - All industries aggregate
 
-## Author Merveilles Freeman Djomo Touka
+## Author : Merveilles Freeman Djomo Touka
 
 Advanced SQL Project - New Zealand Industry Financial Analysis
 
