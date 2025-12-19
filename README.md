@@ -6,7 +6,7 @@ Advanced SQL queries analyzing financial performance across New Zealand industri
 
 ## 📋 Project Overview
 
-This project demonstrates advanced SQL techniques to analyze the **New Zealand Annual Enterprise Survey 2024** dataset. The analysis covers financial performance, profitability metrics, and industry comparisons across various sectors including Agriculture, Mining, Manufacturing, and more .
+This project demonstrates advanced SQL techniques to analyze the **New Zealand Annual Enterprise Survey 2024** dataset. The analysis covers financial performance, profitability metrics, and industry comparisons across various sectors including Agriculture, Mining, Manufacturing, and more  .
 
 ##  Database Schema 
 
