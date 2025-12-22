@@ -302,10 +302,10 @@ project-sql-annual-survey/
 
 Advanced SQL Project - New Zealand Industry Financial Analysis
 
-## 📝 License
+## License
 
 Educational project for SQL demonstration purposes.
 
 ---
 
-⭐ **Star this repository if you find it helpful!**
+⭐ **Star this repository if you found it helpful!**
