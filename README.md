@@ -299,6 +299,8 @@ project-sql-annual-survey/
 - All industries aggregate
 
 ## Author : Merveilles Freeman Djomo Touka
+ [My email adress](djomofreeman1776@gmail.com)  
+ [My GitHub](https://github.com/freemandjomo)
 
 Advanced SQL Project - New Zealand Industry Financial Analysis
 
