@@ -81,11 +81,11 @@ FROM annual_survey_2024;
 ```
 
 ### Query 2: Zeige erste 250 Einträge
-```sql
+ ```sql
  SELECT DISTINCT * 
  FROM annual_survey_2024
  LIMIT 250;
-```
+ ```
 
 ### Query 3: Zeige alle Einträge für "Horticulture and Fruit Growing"
 ```sql
