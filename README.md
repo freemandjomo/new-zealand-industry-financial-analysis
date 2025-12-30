@@ -84,7 +84,7 @@ FROM annual_survey_2024;
 ```sql
  SELECT DISTINCT * 
  FROM annual_survey_2024
-LIMIT 250;
+ LIMIT 250;
 ```
 
 ### Query 3: Zeige alle Einträge für "Horticulture and Fruit Growing"
