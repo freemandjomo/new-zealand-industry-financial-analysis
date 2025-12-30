@@ -83,7 +83,7 @@ FROM annual_survey_2024;
 ### Query 2: Zeige erste 250 Einträge
 ```sql
  SELECT DISTINCT * 
-FROM annual_survey_2024
+ FROM annual_survey_2024
 LIMIT 250;
 ```
 
