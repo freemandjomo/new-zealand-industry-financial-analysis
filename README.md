@@ -51,7 +51,7 @@ CREATE TABLE annual_survey_2024 (
 | H39 | Return on equity | Financial ratios |
 | H40 | Return on total assets | Financial ratios |
 
-## 💡 SQL Concepts Demonstrated
+## SQL Concepts Demonstrated
 
 ### Basic Queries
 - ✅ SELECT, WHERE, ORDER BY
