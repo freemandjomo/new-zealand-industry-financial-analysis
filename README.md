@@ -94,7 +94,7 @@ FROM annual_survey_2024
 WHERE Industry_name_NZSIOC = 'Horticulture and Fruit Growing';
 ```
 
-### Query 4: Welche Variable_names haben einen Value unter 100
+### Query 4: Welche Variable_names haben einen Value unter 100.
 ```sql
 SELECT Variable_name
 FROM annual_survey_2024
