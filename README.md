@@ -137,7 +137,7 @@ SELECT COUNT(DISTINCT(Industry_name_NZSIOC))
 FROM annual_survey_2024;
 ```
 
-### Query 10: Was ist der Minimum- und Maximum-Wert für "Depreciation" (H11)
+### Query 10: Was ist der Minimum- und Maximum-Wert für "Depreciation." (H11)
 ```sql
 SELECT MAX(Value), MIN(Value) 
 FROM annual_survey_2024
