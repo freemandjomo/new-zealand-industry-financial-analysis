@@ -168,7 +168,7 @@ GROUP BY Variable_category
 ORDER BY anzahl_variable;
 ```
 
-### Query 14: Durchschnittlicher Value pro Industry_aggregation_NZSIOC
+### Query 14: Durchschnittlicher Value pro Industry_aggregation_NZSIOC.
 ```sql
 SELECT Industry_aggregation_NZSIOC, AVG(Value)::INT AS average_value  
 FROM annual_survey_2024
