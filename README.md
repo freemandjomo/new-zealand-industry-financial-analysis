@@ -31,7 +31,7 @@ CREATE TABLE annual_survey_2024 (
 - **Variable_category**: Financial performance, Financial position, or Financial ratios
 - **Value**: Numeric value in millions (for currency) or percentage
 
-## 🔍 Variable Codes Reference
+## 🔍 Variable Codes Reference.
 
 | Code | Variable Name | Category |
 |------|--------------|----------|
